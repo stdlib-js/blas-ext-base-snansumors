@@ -88,7 +88,7 @@ The function has the following parameters:
 -   **x**: input [`Float32Array`][@stdlib/array/float32].
 -   **strideX**: stride length for `x`.
 
-The `N` and stride parameters determine which elements in the strided array are  accessed at runtime. For example, to compute the sum of every other element:
+The `N` and stride parameters determine which elements in the strided array are accessed at runtime. For example, to compute the sum of every other element:
 
 ```javascript
 var Float32Array = require( '@stdlib/array-float32' );
@@ -349,7 +349,7 @@ See [LICENSE][stdlib-license].
 
 ## Copyright
 
-Copyright &copy; 2016-2024. The Stdlib [Authors][stdlib-authors].
+Copyright &copy; 2016-2025. The Stdlib [Authors][stdlib-authors].
 
 </section>
 
